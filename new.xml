@@ -1,7 +1,8 @@
-<personal data>
+<?xml version="1.0" encoding="UTF-8" ?>
+ <personal data>
    <name>Darya</name>
    <lastName>Grigorenko</lastName>
    <age>25</age>
    <pets>1</pets>
-   <preferable salary>2500$</preferable salary>
+   <preferable salary>1500$</preferable salary>
  </personal data>
